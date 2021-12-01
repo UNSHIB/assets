@@ -10,6 +10,18 @@
     "id": "0x34836f79b7db9861b2959c860d18c879be6acc51",
     "links": [
         {
+            "name": "twitter",
+            "url": "https://twitter.com/ShibaUnvaxxed"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/UNSHIB"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/unvaxxedshib"
+        },
+        {
             "name": "whitepaper",
             "url": "https://unvaxxedshiba.io/whitepaper.pdf"
         }
