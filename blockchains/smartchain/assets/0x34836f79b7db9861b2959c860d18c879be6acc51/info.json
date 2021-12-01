@@ -1,0 +1,17 @@
+{
+    "name": "Unvaxxed Shiba",
+    "website": "https://unvaxxedshiba.io",
+    "description": "Unvaxxed Shiba is a decentralized, P2P crypto currency for the unvaccinated. It wil enable the unvaxxed to create their own DeFi ecosystem.",
+    "explorer": "https://bscscan.com/token/0x34836f79b7db9861b2959c860d18c879be6acc51",
+    "type": "BEP20",
+    "symbol": "UNSHIB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x34836f79b7db9861b2959c860d18c879be6acc51",
+    "links": [
+        {
+            "name": "whitepaper",
+            "url": "https://unvaxxedshiba.io/whitepaper.pdf"
+        }
+    ]
+}
